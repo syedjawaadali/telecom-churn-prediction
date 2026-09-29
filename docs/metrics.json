@@ -1,0 +1,46 @@
+{
+  "roc_auc": 0.719,
+  "accuracy": 0.682,
+  "churn_precision": 0.446,
+  "churn_recall": 0.595,
+  "churn_f1": 0.51,
+  "test_churn_rate": 0.278,
+  "n_train": 6000,
+  "n_test": 2000,
+  "confusion_matrix": [
+    [
+      1033,
+      411
+    ],
+    [
+      225,
+      331
+    ]
+  ],
+  "top_drivers": [
+    {
+      "feature": "Monthly charges",
+      "importance": 0.404
+    },
+    {
+      "feature": "Tenure (months)",
+      "importance": 0.384
+    },
+    {
+      "feature": "Support calls",
+      "importance": 0.1
+    },
+    {
+      "feature": "Contract: month-to-month",
+      "importance": 0.04
+    },
+    {
+      "feature": "Internet: fiber",
+      "importance": 0.016
+    },
+    {
+      "feature": "Internet: DSL",
+      "importance": 0.016
+    }
+  ]
+}

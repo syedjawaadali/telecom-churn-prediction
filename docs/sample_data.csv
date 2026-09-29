@@ -1,0 +1,9 @@
+tenure_months,monthly_charges,contract,support_calls,internet_service,churned
+68,101.5,Two year,2,DSL,0
+45,43.41,Month-to-month,1,Fiber,0
+49,74.01,Month-to-month,2,,1
+64,78.56,Two year,0,Fiber,0
+41,52.99,One year,3,Fiber,1
+55,112.94,Month-to-month,2,DSL,0
+60,53.21,Month-to-month,2,Fiber,0
+16,52.62,Month-to-month,0,DSL,0
